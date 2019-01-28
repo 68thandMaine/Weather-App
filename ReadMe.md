@@ -1,4 +1,5 @@
-# Find Help!
+# Weather App
+
 <sup>**Designed By:** _Chris Rudnicky_</sup>  
 <sup>_January 18, 2019_</sup>
 
